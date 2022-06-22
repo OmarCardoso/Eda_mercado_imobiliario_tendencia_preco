@@ -4,6 +4,6 @@ Roteiro:
 2 - Tratamento de dados
 3 - Analise preditiva de preços de venda
 4 - Validação do Modelo
-5 - 4EDA: Análise Univariada - Análise Bivariada
+5 - Calculo do valor do erro absoluto
 6 - Testes de hipóteses
 7 - Aspectos da análise
